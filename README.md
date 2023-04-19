@@ -1,3 +1,3 @@
 # MFC_XWSock
 
-TCP通信、UDP通信 上层包装库
+TCP通信、UDP通信包装库，适用于MFC环境
